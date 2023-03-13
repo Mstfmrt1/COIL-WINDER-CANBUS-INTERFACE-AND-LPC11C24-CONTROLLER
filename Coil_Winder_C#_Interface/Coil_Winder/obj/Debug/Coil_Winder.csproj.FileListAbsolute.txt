@@ -1,0 +1,13 @@
+D:\Coil_Winder\Coil_Winder\Coil_Winder\bin\Debug\Coil_Winder.exe.config
+D:\Coil_Winder\Coil_Winder\Coil_Winder\bin\Debug\Coil_Winder.exe
+D:\Coil_Winder\Coil_Winder\Coil_Winder\bin\Debug\Coil_Winder.pdb
+D:\Coil_Winder\Coil_Winder\Coil_Winder\bin\Debug\PCANDevice.dll
+D:\Coil_Winder\Coil_Winder\Coil_Winder\obj\Debug\Coil_Winder.csproj.AssemblyReference.cache
+D:\Coil_Winder\Coil_Winder\Coil_Winder\obj\Debug\Coil_Winder.csproj.SuggestedBindingRedirects.cache
+D:\Coil_Winder\Coil_Winder\Coil_Winder\obj\Debug\Coil_Winder.Form1.resources
+D:\Coil_Winder\Coil_Winder\Coil_Winder\obj\Debug\Coil_Winder.Properties.Resources.resources
+D:\Coil_Winder\Coil_Winder\Coil_Winder\obj\Debug\Coil_Winder.csproj.GenerateResource.cache
+D:\Coil_Winder\Coil_Winder\Coil_Winder\obj\Debug\Coil_Winder.csproj.CoreCompileInputs.cache
+D:\Coil_Winder\Coil_Winder\Coil_Winder\obj\Debug\Coil_Winder.csproj.CopyComplete
+D:\Coil_Winder\Coil_Winder\Coil_Winder\obj\Debug\Coil_Winder.exe
+D:\Coil_Winder\Coil_Winder\Coil_Winder\obj\Debug\Coil_Winder.pdb

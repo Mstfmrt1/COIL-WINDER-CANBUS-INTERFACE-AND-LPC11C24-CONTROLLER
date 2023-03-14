@@ -1,0 +1,1272 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+                              ./src/sysinit.o (Board_SystemInit)
+C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+                              ./src/COIL_WINDER.o (SystemCoreClockUpdate)
+C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                              C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o) (Chip_Clock_SetSystemPLLSource)
+C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+                              ./src/COIL_WINDER.o (Chip_GPIO_Init)
+C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+                              ./src/COIL_WINDER.o (Chip_SYSCTL_SetWakeup)
+C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+                              ./src/motordriver.o (Chip_TIMER_Init)
+c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+                              ./src/cr_startup_lpc11xx.o (__main)
+c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+                              ./src/COIL_WINDER.o (__aeabi_uidiv)
+c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+                              c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o) (__aeabi_idiv0)
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/COIL_WINDER.o
+ .text          0x00000000        0x0 ./src/COIL_WINDER.o
+ .data          0x00000000        0x0 ./src/COIL_WINDER.o
+ .bss           0x00000000        0x0 ./src/COIL_WINDER.o
+ .rodata.ExtRateIn
+                0x00000000        0x4 ./src/COIL_WINDER.o
+ .group         0x00000000        0xc ./src/cr_startup_lpc11xx.o
+ .text          0x00000000        0x0 ./src/cr_startup_lpc11xx.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc11xx.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc11xx.o
+ .debug_macro   0x00000000      0xa6c ./src/cr_startup_lpc11xx.o
+ .group         0x00000000        0xc ./src/crp.o
+ .group         0x00000000        0xc ./src/crp.o
+ .text          0x00000000        0x0 ./src/crp.o
+ .data          0x00000000        0x0 ./src/crp.o
+ .bss           0x00000000        0x0 ./src/crp.o
+ .debug_macro   0x00000000      0xa6c ./src/crp.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .group         0x00000000        0xc ./src/motordriver.o
+ .text          0x00000000        0x0 ./src/motordriver.o
+ .data          0x00000000        0x0 ./src/motordriver.o
+ .bss           0x00000000        0x0 ./src/motordriver.o
+ .text.DC_MOTOR_Set_Dir
+                0x00000000       0xf8 ./src/motordriver.o
+ .text.DC_Motor_Stop
+                0x00000000      0x17c ./src/motordriver.o
+ .text.Chip_TIMER_PWMRead
+                0x00000000       0x14 ./src/motordriver.o
+ .debug_macro   0x00000000      0xa6c ./src/motordriver.o
+ .debug_macro   0x00000000       0x10 ./src/motordriver.o
+ .debug_macro   0x00000000      0x12e ./src/motordriver.o
+ .debug_macro   0x00000000      0x5b3 ./src/motordriver.o
+ .debug_macro   0x00000000       0x22 ./src/motordriver.o
+ .debug_macro   0x00000000       0x7b ./src/motordriver.o
+ .debug_macro   0x00000000       0x10 ./src/motordriver.o
+ .debug_macro   0x00000000       0x1f ./src/motordriver.o
+ .debug_macro   0x00000000       0x3a ./src/motordriver.o
+ .debug_macro   0x00000000      0x241 ./src/motordriver.o
+ .debug_macro   0x00000000      0x117 ./src/motordriver.o
+ .debug_macro   0x00000000       0x22 ./src/motordriver.o
+ .debug_macro   0x00000000       0xb2 ./src/motordriver.o
+ .debug_macro   0x00000000       0x10 ./src/motordriver.o
+ .debug_macro   0x00000000      0x137 ./src/motordriver.o
+ .debug_macro   0x00000000       0x4c ./src/motordriver.o
+ .debug_macro   0x00000000       0x16 ./src/motordriver.o
+ .debug_macro   0x00000000      0x31a ./src/motordriver.o
+ .debug_macro   0x00000000       0x2e ./src/motordriver.o
+ .debug_macro   0x00000000       0xb8 ./src/motordriver.o
+ .debug_macro   0x00000000       0x11 ./src/motordriver.o
+ .debug_macro   0x00000000       0x7c ./src/motordriver.o
+ .debug_macro   0x00000000      0x21c ./src/motordriver.o
+ .debug_macro   0x00000000      0x113 ./src/motordriver.o
+ .debug_macro   0x00000000       0xd9 ./src/motordriver.o
+ .debug_macro   0x00000000       0x22 ./src/motordriver.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .group         0x00000000        0xc ./src/sysinit.o
+ .text          0x00000000        0x0 ./src/sysinit.o
+ .data          0x00000000        0x0 ./src/sysinit.o
+ .bss           0x00000000        0x0 ./src/sysinit.o
+ .debug_macro   0x00000000      0xa6c ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000      0x12e ./src/sysinit.o
+ .debug_macro   0x00000000      0x5b3 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000       0x7b ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000       0x1f ./src/sysinit.o
+ .debug_macro   0x00000000       0x3a ./src/sysinit.o
+ .debug_macro   0x00000000      0x241 ./src/sysinit.o
+ .debug_macro   0x00000000      0x117 ./src/sysinit.o
+ .debug_macro   0x00000000       0x22 ./src/sysinit.o
+ .debug_macro   0x00000000       0xb2 ./src/sysinit.o
+ .debug_macro   0x00000000       0x10 ./src/sysinit.o
+ .debug_macro   0x00000000      0x137 ./src/sysinit.o
+ .debug_macro   0x00000000       0x4c ./src/sysinit.o
+ .debug_macro   0x00000000       0x16 ./src/sysinit.o
+ .debug_macro   0x00000000      0x31a ./src/sysinit.o
+ .debug_macro   0x00000000       0x2e ./src/sysinit.o
+ .debug_macro   0x00000000       0xb8 ./src/sysinit.o
+ .debug_macro   0x00000000       0x11 ./src/sysinit.o
+ .debug_macro   0x00000000       0x7c ./src/sysinit.o
+ .debug_macro   0x00000000      0x21c ./src/sysinit.o
+ .debug_macro   0x00000000      0x113 ./src/sysinit.o
+ .debug_macro   0x00000000       0xd9 ./src/sysinit.o
+ .debug_macro   0x00000000       0x20 ./src/sysinit.o
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .text          0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .data          0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .bss           0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x12e C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x5b3 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x7b C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x1f C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x3a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x241 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x117 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0xb2 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x137 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x4c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x16 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x31a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x2e C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x11 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x7c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x21c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000      0x113 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00000000       0x20 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .text          0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .data          0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .bss           0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0xa5a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x12e C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x5b3 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x1f C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x241 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x117 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0xb2 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x137 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x31a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000       0x7c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x21c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x00000000      0x113 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .text          0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .data          0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .bss           0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .text.Chip_Clock_SetPLLBypass
+                0x00000000       0x48 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .text.Chip_Clock_SetWDTClockSource
+                0x00000000       0x3c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .text.Chip_Clock_SetCLKOUTSource
+                0x00000000       0x3c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0xa5a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x12e C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x5b3 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x1f C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x241 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x117 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0xb2 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x137 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x31a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000       0x7c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x21c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00000000      0x113 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text          0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .data          0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .bss           0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPinDIROutput
+                0x00000000       0x4c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPinDIRInput
+                0x00000000       0x4e C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPortDIROutput
+                0x00000000       0x3e C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPortDIRInput
+                0x00000000       0x40 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_DeInit
+                0x00000000       0x16 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_WriteDirBit
+                0x00000000       0x7a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetDir
+                0x00000000       0x7c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPinDIR
+                0x00000000       0x52 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPortDIR
+                0x00000000       0x4e C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0xa5a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x12e C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x5b3 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x7b C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x1f C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x3a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x241 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x117 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0xb2 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x137 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x4c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x16 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x31a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x2e C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x11 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000       0x7c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x21c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x00000000      0x113 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .text          0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .data          0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .bss           0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .text.Chip_SYSCTL_SetDeepSleepPD
+                0x00000000       0x2c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0xa5a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x12e C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x5b3 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x1f C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x241 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x117 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0xb2 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x137 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x31a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000       0x7c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x21c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x00000000      0x113 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .group         0x00000000        0xc C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .text          0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .data          0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .bss           0x00000000        0x0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .text.Chip_Clock_DisablePeriphClock
+                0x00000000       0x34 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .text.Chip_TIMER_DeInit
+                0x00000000       0x20 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .text.Chip_TIMER_Reset
+                0x00000000       0x38 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .text.Chip_TIMER_ExtMatchControlSet
+                0x00000000       0x80 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0xa5a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x12e C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x5b3 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x7b C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x1f C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x3a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x241 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x117 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x22 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0xb2 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x137 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x4c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x16 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x31a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x2e C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0xb8 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x11 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000       0x7c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x21c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .debug_macro   0x00000000      0x113 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+ .text          0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x00000000        0x0 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash32         0x00000000         0x00008000         xr
+RamLoc8          0x10000000         0x00002000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/COIL_WINDER.o
+LOAD ./src/cr_startup_lpc11xx.o
+LOAD ./src/crp.o
+LOAD ./src/motordriver.o
+LOAD ./src/sysinit.o
+LOAD C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a
+LOAD C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a
+START GROUP
+LOAD c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a
+LOAD c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a
+LOAD c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a
+END GROUP
+                0x00000000                __base_MFlash32 = 0x0
+                0x00000000                __base_Flash = 0x0
+                0x00008000                __top_MFlash32 = 0x8000
+                0x00008000                __top_Flash = 0x8000
+                0x10000000                __base_RamLoc8 = 0x10000000
+                0x10000000                __base_RAM = 0x10000000
+                0x10002000                __top_RamLoc8 = 0x10002000
+                0x10002000                __top_RAM = 0x10002000
+
+.text           0x00000000     0x1b1c
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xc0 ./src/cr_startup_lpc11xx.o
+                0x00000000                g_pfnVectors
+                0x000000c0                . = ALIGN (0x4)
+                0x000000c0                __section_table_start = .
+                0x000000c0                __data_section_table = .
+                0x000000c0        0x4 LONG 0x1b1c LOADADDR (.data)
+                0x000000c4        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000c8        0x4 LONG 0x4 SIZEOF (.data)
+                0x000000cc                __data_section_table_end = .
+                0x000000cc                __bss_section_table = .
+                0x000000cc        0x4 LONG 0x10000004 ADDR (.bss)
+                0x000000d0        0x4 LONG 0x50 SIZEOF (.bss)
+                0x000000d4                __bss_section_table_end = .
+                0x000000d4                __section_table_end = .
+ *(.after_vectors*)
+ .after_vectors
+                0x000000d4      0x11c ./src/cr_startup_lpc11xx.o
+                0x000000d4                data_init
+                0x00000116                bss_init
+                0x0000014c                ResetISR
+                0x000001cc                NMI_Handler
+                0x000001d2                HardFault_Handler
+                0x000001d8                SVC_Handler
+                0x000001de                PendSV_Handler
+                0x000001e4                SysTick_Handler
+                0x000001ea                TIMER32_1_IRQHandler
+                0x000001ea                IntDefaultHandler
+                0x000001ea                PIOINT1_IRQHandler
+                0x000001ea                TIMER32_0_IRQHandler
+                0x000001ea                UART_IRQHandler
+                0x000001ea                TIMER16_1_IRQHandler
+                0x000001ea                ADC_IRQHandler
+                0x000001ea                SSP1_IRQHandler
+                0x000001ea                PIOINT2_IRQHandler
+                0x000001ea                BOD_IRQHandler
+                0x000001ea                WAKEUP_IRQHandler
+                0x000001ea                I2C_IRQHandler
+                0x000001ea                WDT_IRQHandler
+                0x000001ea                TIMER16_0_IRQHandler
+                0x000001ea                SSP0_IRQHandler
+                0x000001ea                PIOINT3_IRQHandler
+                0x000002fc                . = 0x2fc
+ *fill*         0x000001f0      0x10c ff
+                0x000002fc                PROVIDE (__CRP_WORD_START__ = .)
+ *(.crp)
+ .crp           0x000002fc        0x4 ./src/crp.o
+                0x000002fc                CRP_WORD
+                0x00000300                PROVIDE (__CRP_WORD_END__ = .)
+                0x00000001                ASSERT (! ((__CRP_WORD_START__ == __CRP_WORD_END__)), Linker CRP Enabled, but no CRP_WORD provided within application)
+ *(.text*)
+ .text.NVIC_EnableIRQ
+                0x00000300       0x2c ./src/COIL_WINDER.o
+ .text.Chip_SYSCTL_EnableStartPin
+                0x0000032c       0x30 ./src/COIL_WINDER.o
+ .text.Chip_SYSCTL_ResetStartPin
+                0x0000035c       0x28 ./src/COIL_WINDER.o
+ .text.Chip_Clock_EnablePeriphClock
+                0x00000384       0x30 ./src/COIL_WINDER.o
+ .text.Chip_IOCON_PinMuxSet
+                0x000003b4       0x26 ./src/COIL_WINDER.o
+ .text.Chip_IOCON_PinMux
+                0x000003da       0x40 ./src/COIL_WINDER.o
+ .text.Chip_GPIO_SetPinDIROutput
+                0x0000041a       0x4c ./src/COIL_WINDER.o
+ .text.Chip_GPIO_SetPinDIRInput
+                0x00000466       0x4e ./src/COIL_WINDER.o
+ .text.Chip_GPIO_SetPinToggle
+                0x000004b4       0x5e ./src/COIL_WINDER.o
+ *fill*         0x00000512        0x2 ff
+ .text.Chip_GPIO_EnableInt
+                0x00000514       0x40 ./src/COIL_WINDER.o
+ .text.Chip_GPIO_ClearInts
+                0x00000554       0x30 ./src/COIL_WINDER.o
+ .text.Chip_GPIO_AllInit
+                0x00000584       0x84 ./src/COIL_WINDER.o
+                0x00000584                Chip_GPIO_AllInit
+ .text.baudrateCalculate
+                0x00000608       0xca ./src/COIL_WINDER.o
+                0x00000608                baudrateCalculate
+ *fill*         0x000006d2        0x2 ff
+ .text.set_up_msg
+                0x000006d4       0x58 ./src/COIL_WINDER.o
+                0x000006d4                set_up_msg
+ .text.Send_Msg
+                0x0000072c       0x9c ./src/COIL_WINDER.o
+                0x0000072c                Send_Msg
+ .text.Send_INPData
+                0x000007c8      0x128 ./src/COIL_WINDER.o
+                0x000007c8                Send_INPData
+ .text.PIOINT0_IRQHandler
+                0x000008f0       0x80 ./src/COIL_WINDER.o
+                0x000008f0                PIOINT0_IRQHandler
+ .text.CAN_rx   0x00000970       0xd8 ./src/COIL_WINDER.o
+                0x00000970                CAN_rx
+ .text.CAN_tx   0x00000a48       0x14 ./src/COIL_WINDER.o
+                0x00000a48                CAN_tx
+ .text.CAN_error
+                0x00000a5c       0x10 ./src/COIL_WINDER.o
+                0x00000a5c                CAN_error
+ .text.CAN_IRQHandler
+                0x00000a6c       0x18 ./src/COIL_WINDER.o
+                0x00000a6c                CAN_IRQHandler
+ .text.Can_CallbackInit
+                0x00000a84       0x60 ./src/COIL_WINDER.o
+                0x00000a84                Can_CallbackInit
+ .text.main     0x00000ae4       0x34 ./src/COIL_WINDER.o
+                0x00000ae4                main
+ .text.Chip_IOCON_PinMuxSet
+                0x00000b18       0x26 ./src/motordriver.o
+ .text.Chip_IOCON_PinMux
+                0x00000b3e       0x40 ./src/motordriver.o
+ .text.Chip_TIMER_Enable
+                0x00000b7e       0x1c ./src/motordriver.o
+ .text.Chip_TIMER_PrescaleSet
+                0x00000b9a       0x18 ./src/motordriver.o
+ .text.Chip_TIMER_SetMatch
+                0x00000bb2       0x2a ./src/motordriver.o
+ .text.Chip_TIMER_ResetOnMatchEnable
+                0x00000bdc       0x36 ./src/motordriver.o
+ .text.Chip_GPIO_SetPinState
+                0x00000c12       0x4e ./src/motordriver.o
+ .text.Chip_GPIO_SetPinDIROutput
+                0x00000c60       0x4c ./src/motordriver.o
+ .text.DC_MOTOR_Init
+                0x00000cac      0x120 ./src/motordriver.o
+                0x00000cac                DC_MOTOR_Init
+ .text.pwmInit  0x00000dcc      0x140 ./src/motordriver.o
+                0x00000dcc                pwmInit
+ .text.DC_MOTOR_Start
+                0x00000f0c      0x20c ./src/motordriver.o
+                0x00000f0c                DC_MOTOR_Start
+ .text.DC_MOTOR_Set_Speed
+                0x00001118      0x124 ./src/motordriver.o
+                0x00001118                DC_MOTOR_Set_Speed
+ .text.Chip_TIMER_PWMWrite
+                0x0000123c       0x18 ./src/motordriver.o
+                0x0000123c                Chip_TIMER_PWMWrite
+ .text.SystemInit
+                0x00001254        0xe ./src/sysinit.o
+                0x00001254                SystemInit
+ *fill*         0x00001262        0x2 ff
+ .text.Chip_FMC_SetFLASHAccess
+                0x00001264       0x30 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .text.Chip_Clock_SetupSystemPLL
+                0x00001294       0x38 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .text.Chip_Clock_IsSystemPLLLocked
+                0x000012cc       0x1c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .text.Chip_Clock_SetSysClockDiv
+                0x000012e8       0x1c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .text.Chip_Clock_EnablePeriphClock
+                0x00001304       0x30 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .text.Chip_IOCON_PinMuxSet
+                0x00001334       0x26 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .text.SystemSetupClocking
+                0x0000135a       0x66 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .text.SystemSetupMuxing
+                0x000013c0       0x4c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .text.Board_SystemInit
+                0x0000140c       0x12 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+                0x0000140c                Board_SystemInit
+ *fill*         0x0000141e        0x2 ff
+ .text.SystemCoreClockUpdate
+                0x00001420       0x18 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+                0x00001420                SystemCoreClockUpdate
+ .text.Chip_Clock_GetMainOscRate
+                0x00001438       0x14 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .text.Chip_Clock_GetIntOscRate
+                0x0000144c       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .text.Chip_Clock_GetWDTLFORate
+                0x0000145c       0x48 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .text.Chip_Clock_GetPLLFreq
+                0x000014a4       0x22 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ *fill*         0x000014c6        0x2 ff
+ .text.Chip_Clock_SetSystemPLLSource
+                0x000014c8       0x2c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x000014c8                Chip_Clock_SetSystemPLLSource
+ .text.Chip_Clock_SetMainClockSource
+                0x000014f4       0x2c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x000014f4                Chip_Clock_SetMainClockSource
+ .text.Chip_Clock_GetWDTOSCRate
+                0x00001520       0x1c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x00001520                Chip_Clock_GetWDTOSCRate
+ .text.Chip_Clock_GetSystemPLLInClockRate
+                0x0000153c       0x40 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x0000153c                Chip_Clock_GetSystemPLLInClockRate
+ .text.Chip_Clock_GetSystemPLLOutClockRate
+                0x0000157c       0x24 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x0000157c                Chip_Clock_GetSystemPLLOutClockRate
+ .text.Chip_Clock_GetMainClockRate
+                0x000015a0       0x64 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x000015a0                Chip_Clock_GetMainClockRate
+ .text.Chip_Clock_GetSystemClockRate
+                0x00001604       0x24 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x00001604                Chip_Clock_GetSystemClockRate
+ .text.Chip_Clock_EnablePeriphClock
+                0x00001628       0x30 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPinModeEdge
+                0x00001658       0x40 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetPinModeLevel
+                0x00001698       0x40 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetEdgeModeBoth
+                0x000016d8       0x40 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetEdgeModeSingle
+                0x00001718       0x40 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetModeHigh
+                0x00001758       0x40 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_SetModeLow
+                0x00001798       0x40 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .text.Chip_GPIO_Init
+                0x000017d8       0x16 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+                0x000017d8                Chip_GPIO_Init
+ .text.Chip_GPIO_SetupPinInt
+                0x000017ee       0xac C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+                0x000017ee                Chip_GPIO_SetupPinInt
+ *fill*         0x0000189a        0x2 ff
+ .text.Chip_SYSCTL_SetWakeup
+                0x0000189c       0x28 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+                0x0000189c                Chip_SYSCTL_SetWakeup
+ .text.Chip_SYSCTL_PowerDown
+                0x000018c4       0x40 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+                0x000018c4                Chip_SYSCTL_PowerDown
+ .text.Chip_SYSCTL_PowerUp
+                0x00001904       0x40 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+                0x00001904                Chip_SYSCTL_PowerUp
+ .text.Chip_Clock_EnablePeriphClock
+                0x00001944       0x30 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .text.Chip_TIMER_GetClock
+                0x00001974       0x60 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .text.Chip_TIMER_Init
+                0x000019d4       0x20 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+                0x000019d4                Chip_TIMER_Init
+ .text.__weak_main
+                0x000019f4        0x8 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+                0x000019f4                __weak_main
+                0x000019f4                __main
+ .text.__aeabi_division_idivmod
+                0x000019fc       0x78 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+                0x000019fc                __aeabi_idivmod
+                0x000019fc                __aeabi_idiv
+                0x00001a02                __aeabi_uidivmod
+                0x00001a02                __aeabi_uidiv
+ .text.__aeabi_division_idiv0
+                0x00001a74        0x2 c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+                0x00001a74                __aeabi_idiv0
+ *(.rodata .rodata.* .constdata .constdata.*)
+ *fill*         0x00001a76        0x2 ff
+ .rodata.OscRateIn
+                0x00001a78        0x4 ./src/COIL_WINDER.o
+                0x00001a78                OscRateIn
+ .rodata        0x00001a7c       0x20 ./src/COIL_WINDER.o
+ .rodata.DC_MOTOR_CfgParam
+                0x00001a9c       0x18 ./src/motordriver.o
+                0x00001a9c                DC_MOTOR_CfgParam
+ .rodata.pinmuxing
+                0x00001ab4       0x28 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .rodata.wdtOSCRate
+                0x00001adc       0x40 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                0x00001b1c                . = ALIGN (0x4)
+
+.glue_7         0x00001b1c        0x0
+ .glue_7        0x00001b1c        0x0 linker stubs
+
+.glue_7t        0x00001b1c        0x0
+ .glue_7t       0x00001b1c        0x0 linker stubs
+
+.vfp11_veneer   0x00001b1c        0x0
+ .vfp11_veneer  0x00001b1c        0x0 linker stubs
+
+.v4_bx          0x00001b1c        0x0
+ .v4_bx         0x00001b1c        0x0 linker stubs
+
+.iplt           0x00001b1c        0x0
+ .iplt          0x00001b1c        0x0 ./src/COIL_WINDER.o
+
+.rel.dyn        0x00001b1c        0x0
+ .rel.iplt      0x00001b1c        0x0 ./src/COIL_WINDER.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx      0x00001b1c        0x0
+                0x00001b1c                __exidx_start = .
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00001b1c                __exidx_end = .
+                0x00001b1c                _etext = .
+
+.uninit_RESERVED
+                0x10000000        0x0
+                0x10000000                _start_uninit_RESERVED = .
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000        0x4 load address 0x00001b1c
+ FILL mask 0xff
+                0x10000000                _data = .
+                [!provide]                PROVIDE (__start_data_RAM = .)
+                [!provide]                PROVIDE (__start_data_RamLoc8 = .)
+ *(vtable)
+ *(.ramfunc*)
+ *(CodeQuickAccess)
+ *(DataQuickAccess)
+ *(RamFunction)
+ *(.data*)
+ .data.pwm      0x10000000        0x1 ./src/COIL_WINDER.o
+                0x10000000                pwm
+                0x10000004                . = ALIGN (0x4)
+ *fill*         0x10000001        0x3 ff
+                0x10000004                _edata = .
+                [!provide]                PROVIDE (__end_data_RAM = .)
+                [!provide]                PROVIDE (__end_data_RamLoc8 = .)
+
+.igot.plt       0x10000004        0x0 load address 0x00001b20
+ .igot.plt      0x10000004        0x0 ./src/COIL_WINDER.o
+
+.bss            0x10000004       0x50
+                0x10000004                _bss = .
+                [!provide]                PROVIDE (__start_bss_RAM = .)
+                [!provide]                PROVIDE (__start_bss_RamLoc8 = .)
+ *(.bss*)
+ .bss.Send_Data
+                0x10000004       0x14 ./src/COIL_WINDER.o
+                0x10000004                Send_Data
+ .bss.Rx_Command
+                0x10000018       0x14 ./src/COIL_WINDER.o
+                0x10000018                Rx_Command
+ .bss.send_msg  0x1000002c       0x14 ./src/COIL_WINDER.o
+                0x1000002c                send_msg
+ .bss.CanApiClkInitTable
+                0x10000040        0x8 ./src/COIL_WINDER.o
+                0x10000040                CanApiClkInitTable
+ .bss.count     0x10000048        0x4 ./src/COIL_WINDER.o
+                0x10000048                count
+ .bss.turn_value
+                0x1000004c        0x2 ./src/COIL_WINDER.o
+                0x1000004c                turn_value
+ *fill*         0x1000004e        0x2 
+ .bss.SystemCoreClock
+                0x10000050        0x4 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+                0x10000050                SystemCoreClock
+ *(COMMON)
+                0x10000054                . = ALIGN (0x4)
+                0x10000054                _ebss = .
+                [!provide]                PROVIDE (__end_bss_RAM = .)
+                [!provide]                PROVIDE (__end_bss_RamLoc8 = .)
+                [!provide]                PROVIDE (end = .)
+
+.noinit         0x10000054        0x0
+                0x10000054                _noinit = .
+                [!provide]                PROVIDE (__start_noinit_RAM = .)
+                [!provide]                PROVIDE (__start_noinit_RamLoc8 = .)
+ *(.noinit*)
+                0x10000054                . = ALIGN (0x4)
+                0x10000054                _end_noinit = .
+                [!provide]                PROVIDE (__end_noinit_RAM = .)
+                [!provide]                PROVIDE (__end_noinit_RamLoc8 = .)
+                [!provide]                PROVIDE (_pvHeapStart = DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x10002000                PROVIDE (_vStackTop = DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc8 - 0x0))
+                0xefffdb13                PROVIDE (__valid_user_code_checksum = (0x0 - (((_vStackTop + (ResetISR + 0x1)) + (DEFINED (NMI_Handler)?NMI_Handler:M0_NMI_Handler + 0x1)) + (DEFINED (HardFault_Handler)?HardFault_Handler:M0_HardFault_Handler + 0x1))))
+                0x00000000                _image_start = LOADADDR (.text)
+                0x00001b20                _image_end = (LOADADDR (.data) + SIZEOF (.data))
+                0x00001b20                _image_size = (_image_end - _image_start)
+OUTPUT(COIL_WINDER.axf elf32-littlearm)
+LOAD linker stubs
+
+.debug_info     0x00000000     0x4e2c
+ .debug_info    0x00000000     0x1481 ./src/COIL_WINDER.o
+ .debug_info    0x00001481      0x22e ./src/cr_startup_lpc11xx.o
+ .debug_info    0x000016af       0x40 ./src/crp.o
+ .debug_info    0x000016ef      0x8c3 ./src/motordriver.o
+ .debug_info    0x00001fb2       0x97 ./src/sysinit.o
+ .debug_info    0x00002049      0xa7a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_info    0x00002ac3       0xb7 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_info    0x00002b7a      0x8ef C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_info    0x00003469      0xbcf C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_info    0x00004038      0x5b5 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_info    0x000045ed      0x83f C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+
+.debug_abbrev   0x00000000     0x100d
+ .debug_abbrev  0x00000000      0x370 ./src/COIL_WINDER.o
+ .debug_abbrev  0x00000370      0x111 ./src/cr_startup_lpc11xx.o
+ .debug_abbrev  0x00000481       0x38 ./src/crp.o
+ .debug_abbrev  0x000004b9      0x210 ./src/motordriver.o
+ .debug_abbrev  0x000006c9       0x47 ./src/sysinit.o
+ .debug_abbrev  0x00000710      0x21c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_abbrev  0x0000092c       0x78 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_abbrev  0x000009a4      0x1ea C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_abbrev  0x00000b8e      0x1d8 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_abbrev  0x00000d66       0xe5 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_abbrev  0x00000e4b      0x1c2 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+
+.debug_aranges  0x00000000      0x440
+ .debug_aranges
+                0x00000000       0xd0 ./src/COIL_WINDER.o
+ .debug_aranges
+                0x000000d0       0x60 ./src/cr_startup_lpc11xx.o
+ .debug_aranges
+                0x00000130       0x18 ./src/crp.o
+ .debug_aranges
+                0x00000148       0x98 ./src/motordriver.o
+ .debug_aranges
+                0x000001e0       0x20 ./src/sysinit.o
+ .debug_aranges
+                0x00000200       0x60 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_aranges
+                0x00000260       0x20 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_aranges
+                0x00000280       0x88 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_aranges
+                0x00000308       0xb0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_aranges
+                0x000003b8       0x38 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_aranges
+                0x000003f0       0x50 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+
+.debug_ranges   0x00000000      0x388
+ .debug_ranges  0x00000000       0xc0 ./src/COIL_WINDER.o
+ .debug_ranges  0x000000c0       0x50 ./src/cr_startup_lpc11xx.o
+ .debug_ranges  0x00000110       0x88 ./src/motordriver.o
+ .debug_ranges  0x00000198       0x10 ./src/sysinit.o
+ .debug_ranges  0x000001a8       0x50 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_ranges  0x000001f8       0x10 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_ranges  0x00000208       0x78 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_ranges  0x00000280       0xa0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_ranges  0x00000320       0x28 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_ranges  0x00000348       0x40 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+
+.debug_macro    0x00000000     0x3a96
+ .debug_macro   0x00000000      0x1bf ./src/COIL_WINDER.o
+ .debug_macro   0x000001bf      0xa6c ./src/COIL_WINDER.o
+ .debug_macro   0x00000c2b       0x10 ./src/COIL_WINDER.o
+ .debug_macro   0x00000c3b      0x12e ./src/COIL_WINDER.o
+ .debug_macro   0x00000d69      0x5b3 ./src/COIL_WINDER.o
+ .debug_macro   0x0000131c       0x22 ./src/COIL_WINDER.o
+ .debug_macro   0x0000133e       0x7b ./src/COIL_WINDER.o
+ .debug_macro   0x000013b9       0x10 ./src/COIL_WINDER.o
+ .debug_macro   0x000013c9       0x1f ./src/COIL_WINDER.o
+ .debug_macro   0x000013e8       0x3a ./src/COIL_WINDER.o
+ .debug_macro   0x00001422      0x241 ./src/COIL_WINDER.o
+ .debug_macro   0x00001663      0x117 ./src/COIL_WINDER.o
+ .debug_macro   0x0000177a       0x22 ./src/COIL_WINDER.o
+ .debug_macro   0x0000179c       0xb2 ./src/COIL_WINDER.o
+ .debug_macro   0x0000184e       0x10 ./src/COIL_WINDER.o
+ .debug_macro   0x0000185e      0x137 ./src/COIL_WINDER.o
+ .debug_macro   0x00001995       0x4c ./src/COIL_WINDER.o
+ .debug_macro   0x000019e1       0x16 ./src/COIL_WINDER.o
+ .debug_macro   0x000019f7      0x31a ./src/COIL_WINDER.o
+ .debug_macro   0x00001d11       0x2e ./src/COIL_WINDER.o
+ .debug_macro   0x00001d3f       0xb8 ./src/COIL_WINDER.o
+ .debug_macro   0x00001df7       0x11 ./src/COIL_WINDER.o
+ .debug_macro   0x00001e08       0x7c ./src/COIL_WINDER.o
+ .debug_macro   0x00001e84      0x21c ./src/COIL_WINDER.o
+ .debug_macro   0x000020a0      0x113 ./src/COIL_WINDER.o
+ .debug_macro   0x000021b3       0x82 ./src/COIL_WINDER.o
+ .debug_macro   0x00002235       0x34 ./src/COIL_WINDER.o
+ .debug_macro   0x00002269       0x16 ./src/COIL_WINDER.o
+ .debug_macro   0x0000227f       0xd9 ./src/COIL_WINDER.o
+ .debug_macro   0x00002358       0x20 ./src/COIL_WINDER.o
+ .debug_macro   0x00002378       0x22 ./src/COIL_WINDER.o
+ .debug_macro   0x0000239a       0x28 ./src/COIL_WINDER.o
+ .debug_macro   0x000023c2       0x1d ./src/cr_startup_lpc11xx.o
+ .debug_macro   0x000023df       0x1a ./src/crp.o
+ .debug_macro   0x000023f9       0x34 ./src/crp.o
+ .debug_macro   0x0000242d      0x19d ./src/motordriver.o
+ .debug_macro   0x000025ca       0x2e ./src/motordriver.o
+ .debug_macro   0x000025f8      0x17d ./src/sysinit.o
+ .debug_macro   0x00002775       0x10 ./src/sysinit.o
+ .debug_macro   0x00002785      0x18b C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00002910      0xa5a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x0000336a       0x9a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_macro   0x00003404      0x148 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_macro   0x0000354c      0x148 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_macro   0x00003694      0x148 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_macro   0x000037dc      0x172 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_macro   0x0000394e      0x148 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+
+.debug_line     0x00000000     0x317f
+ .debug_line    0x00000000      0x938 ./src/COIL_WINDER.o
+ .debug_line    0x00000938      0x135 ./src/cr_startup_lpc11xx.o
+ .debug_line    0x00000a6d       0xb1 ./src/crp.o
+ .debug_line    0x00000b1e      0x6df ./src/motordriver.o
+ .debug_line    0x000011fd      0x3cb ./src/sysinit.o
+ .debug_line    0x000015c8      0x547 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_line    0x00001b0f      0x349 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_line    0x00001e58      0x563 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_line    0x000023bb      0x5b2 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_line    0x0000296d      0x3ca C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_line    0x00002d37      0x448 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+
+.debug_str      0x00000000     0xadb3
+ .debug_str     0x00000000     0x9bcc ./src/COIL_WINDER.o
+                               0x9d4d (size before relaxing)
+ .debug_str     0x00009bcc      0x178 ./src/cr_startup_lpc11xx.o
+                               0x2dec (size before relaxing)
+ .debug_str     0x00009d44       0xe9 ./src/crp.o
+                               0x2d57 (size before relaxing)
+ .debug_str     0x00009e2d      0x286 ./src/motordriver.o
+                               0x8ef6 (size before relaxing)
+ .debug_str     0x0000a0b3       0x11 ./src/sysinit.o
+                               0x88d8 (size before relaxing)
+ .debug_str     0x0000a0c4      0x3ae C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+                               0x9152 (size before relaxing)
+ .debug_str     0x0000a472       0x91 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+                               0x8552 (size before relaxing)
+ .debug_str     0x0000a503      0x447 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                               0x8d20 (size before relaxing)
+ .debug_str     0x0000a94a      0x1a8 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+                               0x8bf4 (size before relaxing)
+ .debug_str     0x0000aaf2      0x19f C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+                               0x8960 (size before relaxing)
+ .debug_str     0x0000ac91      0x122 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+                               0x8ae7 (size before relaxing)
+
+.comment        0x00000000       0x49
+ .comment       0x00000000       0x49 ./src/COIL_WINDER.o
+                                 0x4a (size before relaxing)
+ .comment       0x00000049       0x4a ./src/cr_startup_lpc11xx.o
+ .comment       0x00000049       0x4a ./src/crp.o
+ .comment       0x00000049       0x4a ./src/motordriver.o
+ .comment       0x00000049       0x4a ./src/sysinit.o
+ .comment       0x00000049       0x4a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .comment       0x00000049       0x4a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .comment       0x00000049       0x4a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .comment       0x00000049       0x4a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .comment       0x00000049       0x4a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .comment       0x00000049       0x4a C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .comment       0x00000049       0x4a c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+
+.ARM.attributes
+                0x00000000       0x2a
+ .ARM.attributes
+                0x00000000       0x2c ./src/COIL_WINDER.o
+ .ARM.attributes
+                0x0000002c       0x2c ./src/cr_startup_lpc11xx.o
+ .ARM.attributes
+                0x00000058       0x2c ./src/crp.o
+ .ARM.attributes
+                0x00000084       0x2c ./src/motordriver.o
+ .ARM.attributes
+                0x000000b0       0x2c ./src/sysinit.o
+ .ARM.attributes
+                0x000000dc       0x2c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .ARM.attributes
+                0x00000108       0x2c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .ARM.attributes
+                0x00000134       0x2c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .ARM.attributes
+                0x00000160       0x2c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .ARM.attributes
+                0x0000018c       0x2c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .ARM.attributes
+                0x000001b8       0x2c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+ .ARM.attributes
+                0x000001e4       0x2c c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+ .ARM.attributes
+                0x00000210       0x1c c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+ .ARM.attributes
+                0x0000022c       0x1c c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+
+.debug_frame    0x00000000      0xd38
+ .debug_frame   0x00000000      0x2e0 ./src/COIL_WINDER.o
+ .debug_frame   0x000002e0      0x118 ./src/cr_startup_lpc11xx.o
+ .debug_frame   0x000003f8      0x210 ./src/motordriver.o
+ .debug_frame   0x00000608       0x2c ./src/sysinit.o
+ .debug_frame   0x00000634      0x128 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+ .debug_frame   0x0000075c       0x2c C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+ .debug_frame   0x00000788      0x1c0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+ .debug_frame   0x00000948      0x270 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+ .debug_frame   0x00000bb8       0x90 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+ .debug_frame   0x00000c48       0xf0 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_IRQHandler                                    ./src/cr_startup_lpc11xx.o
+BOD_IRQHandler                                    ./src/cr_startup_lpc11xx.o
+Board_SystemInit                                  C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+                                                  ./src/sysinit.o
+CAN_IRQHandler                                    ./src/COIL_WINDER.o
+CAN_error                                         ./src/COIL_WINDER.o
+CAN_rx                                            ./src/COIL_WINDER.o
+CAN_tx                                            ./src/COIL_WINDER.o
+CRP_WORD                                          ./src/crp.o
+CanApiClkInitTable                                ./src/COIL_WINDER.o
+Can_CallbackInit                                  ./src/COIL_WINDER.o
+Chip_Clock_GetMainClockRate                       C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                                                  ./src/COIL_WINDER.o
+Chip_Clock_GetSystemClockRate                     C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                                                  C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+Chip_Clock_GetSystemPLLInClockRate                C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+Chip_Clock_GetSystemPLLOutClockRate               C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+Chip_Clock_GetWDTOSCRate                          C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+Chip_Clock_SetCLKOUTSource                        C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+Chip_Clock_SetMainClockSource                     C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                                                  C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+Chip_Clock_SetPLLBypass                           C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+Chip_Clock_SetSystemPLLSource                     C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                                                  C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+Chip_Clock_SetWDTClockSource                      C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+Chip_GPIO_AllInit                                 ./src/COIL_WINDER.o
+Chip_GPIO_DeInit                                  C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+Chip_GPIO_Init                                    C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+                                                  ./src/COIL_WINDER.o
+Chip_GPIO_SetDir                                  C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+Chip_GPIO_SetPinDIR                               C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+Chip_GPIO_SetPortDIR                              C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+Chip_GPIO_SetupPinInt                             C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+                                                  ./src/COIL_WINDER.o
+Chip_GPIO_WriteDirBit                             C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(gpio_11xx_2.o)
+Chip_SYSCTL_PowerDown                             C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+                                                  C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+Chip_SYSCTL_PowerUp                               C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+                                                  C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\nxp_lpcxpresso_11c24_board_lib\Debug\libnxp_lpcxpresso_11c24_board_lib.a(board_sysinit.o)
+Chip_SYSCTL_SetDeepSleepPD                        C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+Chip_SYSCTL_SetWakeup                             C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(sysctl_11xx.o)
+                                                  ./src/COIL_WINDER.o
+Chip_TIMER_DeInit                                 C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+Chip_TIMER_ExtMatchControlSet                     C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+Chip_TIMER_Init                                   C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+                                                  ./src/motordriver.o
+Chip_TIMER_PWMRead                                ./src/motordriver.o
+Chip_TIMER_PWMWrite                               ./src/motordriver.o
+Chip_TIMER_Reset                                  C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(timer_11xx.o)
+DC_MOTOR_CfgParam                                 ./src/motordriver.o
+DC_MOTOR_Init                                     ./src/motordriver.o
+                                                  ./src/COIL_WINDER.o
+DC_MOTOR_Set_Dir                                  ./src/motordriver.o
+DC_MOTOR_Set_Speed                                ./src/motordriver.o
+                                                  ./src/COIL_WINDER.o
+DC_MOTOR_Start                                    ./src/motordriver.o
+                                                  ./src/COIL_WINDER.o
+DC_Motor_Stop                                     ./src/motordriver.o
+ExtRateIn                                         ./src/COIL_WINDER.o
+HardFault_Handler                                 ./src/cr_startup_lpc11xx.o
+I2C_IRQHandler                                    ./src/cr_startup_lpc11xx.o
+IntDefaultHandler                                 ./src/cr_startup_lpc11xx.o
+NMI_Handler                                       ./src/cr_startup_lpc11xx.o
+OscRateIn                                         ./src/COIL_WINDER.o
+                                                  C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+PIOINT0_IRQHandler                                ./src/COIL_WINDER.o
+PIOINT1_IRQHandler                                ./src/cr_startup_lpc11xx.o
+PIOINT2_IRQHandler                                ./src/cr_startup_lpc11xx.o
+PIOINT3_IRQHandler                                ./src/cr_startup_lpc11xx.o
+PendSV_Handler                                    ./src/cr_startup_lpc11xx.o
+ResetISR                                          ./src/cr_startup_lpc11xx.o
+Rx_Command                                        ./src/COIL_WINDER.o
+SSP0_IRQHandler                                   ./src/cr_startup_lpc11xx.o
+SSP1_IRQHandler                                   ./src/cr_startup_lpc11xx.o
+SVC_Handler                                       ./src/cr_startup_lpc11xx.o
+Send_Data                                         ./src/COIL_WINDER.o
+Send_INPData                                      ./src/COIL_WINDER.o
+Send_Msg                                          ./src/COIL_WINDER.o
+SysTick_Handler                                   ./src/cr_startup_lpc11xx.o
+SystemCoreClock                                   C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+SystemCoreClockUpdate                             C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(chip_11xx.o)
+                                                  ./src/COIL_WINDER.o
+SystemInit                                        ./src/sysinit.o
+                                                  ./src/cr_startup_lpc11xx.o
+TIMER16_0_IRQHandler                              ./src/cr_startup_lpc11xx.o
+TIMER16_1_IRQHandler                              ./src/cr_startup_lpc11xx.o
+TIMER32_0_IRQHandler                              ./src/cr_startup_lpc11xx.o
+TIMER32_1_IRQHandler                              ./src/cr_startup_lpc11xx.o
+UART_IRQHandler                                   ./src/cr_startup_lpc11xx.o
+WAKEUP_IRQHandler                                 ./src/cr_startup_lpc11xx.o
+WDT_IRQHandler                                    ./src/cr_startup_lpc11xx.o
+__aeabi_idiv                                      c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+__aeabi_idiv0                                     c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_idiv0.o)
+                                                  c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+__aeabi_idivmod                                   c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+__aeabi_uidiv                                     c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+                                                  C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\Debug\liblpc_chip_11cxx_lib.a(clock_11xx.o)
+                                                  ./src/COIL_WINDER.o
+__aeabi_uidivmod                                  c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libcr_eabihelpers.a(division_32.o)
+__bss_section_table_end                           ./src/cr_startup_lpc11xx.o
+__data_section_table                              ./src/cr_startup_lpc11xx.o
+__data_section_table_end                          ./src/cr_startup_lpc11xx.o
+__main                                            c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+                                                  ./src/cr_startup_lpc11xx.o
+__valid_user_code_checksum                        ./src/cr_startup_lpc11xx.o
+__weak_main                                       c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+_vStackTop                                        ./src/cr_startup_lpc11xx.o
+baudrateCalculate                                 ./src/COIL_WINDER.o
+bss_init                                          ./src/cr_startup_lpc11xx.o
+count                                             ./src/COIL_WINDER.o
+data_init                                         ./src/cr_startup_lpc11xx.o
+g_pfnVectors                                      ./src/cr_startup_lpc11xx.o
+main                                              ./src/COIL_WINDER.o
+                                                  c:/nxp/mcuxpressoide_11.6.0_8187/ide/plugins/com.nxp.mcuxpresso.tools.win32_11.6.0.202112161359/tools/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libcr_c.a(__weak__main.o)
+pwm                                               ./src/COIL_WINDER.o
+pwmInit                                           ./src/motordriver.o
+                                                  ./src/COIL_WINDER.o
+send_msg                                          ./src/COIL_WINDER.o
+set_up_msg                                        ./src/COIL_WINDER.o
+turn_value                                        ./src/COIL_WINDER.o

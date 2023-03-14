@@ -1,9 +1,0 @@
-../src/cr_startup_lpc11xx.c:285:6:NMI_Handler	0	static
-../src/cr_startup_lpc11xx.c:292:6:HardFault_Handler	0	static
-../src/cr_startup_lpc11xx.c:299:6:SVC_Handler	0	static
-../src/cr_startup_lpc11xx.c:306:6:PendSV_Handler	0	static
-../src/cr_startup_lpc11xx.c:313:6:SysTick_Handler	0	static
-../src/cr_startup_lpc11xx.c:327:6:IntDefaultHandler	0	static
-../src/cr_startup_lpc11xx.c:194:6:data_init	12	static
-../src/cr_startup_lpc11xx.c:203:6:bss_init	8	static
-../src/cr_startup_lpc11xx.c:229:1:ResetISR	8	static

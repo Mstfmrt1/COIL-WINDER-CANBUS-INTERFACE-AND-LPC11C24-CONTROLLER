@@ -1,0 +1,16 @@
+C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\inc/iocon_11xx.h:249:20:Chip_IOCON_PinMuxSet	24	static
+C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\inc/iocon_11xx.h:262:20:Chip_IOCON_PinMux	24	static
+C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\inc/timer_11xx.h:160:20:Chip_TIMER_Enable	16	static
+C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\inc/timer_11xx.h:205:20:Chip_TIMER_PrescaleSet	16	static
+C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\inc/timer_11xx.h:218:20:Chip_TIMER_SetMatch	24	static
+C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\inc/timer_11xx.h:271:20:Chip_TIMER_ResetOnMatchEnable	16	static
+C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\inc/gpio_11xx_2.h:102:20:Chip_GPIO_SetPinState	24	static
+C:\Users\sdkar\Documents\MCUXpressoIDE_11.6.0_8187\w_s_mustafa\lpc_chip_11cxx_lib\inc/gpio_11xx_2.h:153:20:Chip_GPIO_SetPinDIROutput	16	static
+../src/motordriver.c:34:6:DC_MOTOR_Init	24	static
+../src/motordriver.c:55:6:pwmInit	24	static
+../src/motordriver.c:79:6:DC_MOTOR_Start	24	static
+../src/motordriver.c:116:6:DC_MOTOR_Set_Dir	24	static
+../src/motordriver.c:132:6:DC_Motor_Stop	24	static
+../src/motordriver.c:161:6:DC_MOTOR_Set_Speed	16	static
+../src/motordriver.c:183:6:Chip_TIMER_PWMWrite	16	static
+../src/motordriver.c:188:10:Chip_TIMER_PWMRead	16	static

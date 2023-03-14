@@ -1,5 +1,6 @@
 # COIL-WINDER-CANBUS-INTERFACE-AND-LPC11C24-CONTROLLER
 Bobin Sarma Makinesi
+
 Arayüzden alınan hız ve tur sayısı değerine göre LPC11C24 mikrokontrolcüye CanBus aracılığıyla mesajları iletilir.
 MCU aldığı mesajları işleyerek DC motora gelen  PWM değerinde döndürmeye başlar, kullanılan Inductive Sensör prototip tasarımda her dönüşünde bir sayarak arayüze anlık tur bilgilerini yollar
 ve istenilen tur sayısına ulaştığında motoru durdurur. İşlem anında motorun durması istenirse stop butonu ile durdurulabilir.
